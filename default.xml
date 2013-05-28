@@ -70,7 +70,7 @@
   <project path="device/samsung/d2tmo" name="AOKP/device_samsung_d2tmo" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/d2usc" name="AOKP/device_samsung_d2usc" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/d2vzw" name="AOKP/device_samsung_d2vzw" remote="aokp" revision="jb-mr1" />
-  <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="EpicAOKP" revision="cm-10.1" />
+  <project path="device/samsung/galaxys2-common" name="device_samsung_galaxys2-common" remote="EpicAOKP" revision="jb-mr1" />
   <project path="device/samsung/hercules" name="AOKP/device_samsung_hercules" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/i605" name="AOKP/device_samsung_i605" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/i9100" name="AOKP/device_samsung_i9100" remote="aokp" revision="jb-mr1" />
@@ -440,7 +440,7 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-   <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_d710" remote="EpicAOKP" revision="cm-10.1" />
+   <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_smdk4210" remote="EpicAOKP" revision="cm-10.1" />
 
   <project path="platform_manifest" name="platform_manifest" remote="EpicAOKP" revision="jb-mr1" />
 </manifest>
